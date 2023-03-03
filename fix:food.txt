@@ -5,6 +5,3 @@ hellotxt version 4.
 
 switch daily/food
 commmit daily/food
-
-fix/food
-test
